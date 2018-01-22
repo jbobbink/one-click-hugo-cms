@@ -1,5 +1,5 @@
 ---
-title: Our Coffee - Jan-Willem
+title: Our Coffee - Jan-Willem 2
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
